@@ -1,0 +1,12 @@
+.ipynb_checkpoints/.gitignore
+.ipynb_checkpoints/Detect_Masks_Using_WebCam-checkpoint.ipynb
+.ipynb_checkpoints/Detect_Masks_Using_WebCam-checkpoint.py
+.ipynb_checkpoints/Detect_Masks_Using_WebCam-vb-2-checkpoint.ipynb
+.ipynb_checkpoints/face-mask-detector-efficientNetB0-checkpoint.ipynb
+.ipynb_checkpoints/face-mask-detector-efficientNetB3-checkpoint.ipynb
+.ipynb_checkpoints/face-mask-detector-mobileNet-checkpoint.ipynb
+.ipynb_checkpoints/face-mask-detector-mobileNetV2-checkpoint.ipynb
+.ipynb_checkpoints/ReadMe-checkpoint.md
+.ipynb_checkpoints/script_webcam-checkpoint.py
+__pycache__/script_webcam.cpython-38.pyc
+__pycache__/test_script_webcam.cpython-38-pytest-6.2.4.pyc
